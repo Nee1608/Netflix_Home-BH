@@ -16,6 +16,6 @@ It is a Netflix clone project that replicates the core functionalities and user 
 
 # Getting Started
  To get started with Temperature Converter, follow these steps:
- 1. Clone the repository: git clone https://github.com/Nee1608/Temp_Conv-BH.git
+ 1. Clone the repository: git clone https://github.com/Nee1608/Netflix_Home-BH.git
  2. Navigate to the project directory: cd Netflix_Home-BH
  3. Open the index.html file in your web browser.
